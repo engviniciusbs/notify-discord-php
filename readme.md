@@ -1,4 +1,5 @@
 Discord Bot Notify
+
 Este é um bot simples para o Discord que notifica quando um usuário entra ou sai de um canal de voz.
 
 Tecnologias utilizadas:
